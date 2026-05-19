@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/0f/9e/63/0f9e6393dbb0f6a6f5e4d0c57dfb1c9e.gif" width="100%" />
 
 # Rayue20-cloud
 
