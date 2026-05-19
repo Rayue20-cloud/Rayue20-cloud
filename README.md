@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%" />
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="100%" />
 
 # Rayue20-cloud
 
@@ -24,9 +24,9 @@ $ whoami
 
 # ⚡ SYSTEM STATUS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rayue20-cloud&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayue20-cloud&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayue20-cloud&theme=github_dark" />
+</p>
 
 ---
 
