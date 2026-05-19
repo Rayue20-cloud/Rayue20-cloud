@@ -1,16 +1,133 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rayue20-cloud/Rayue20-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%" />
 
-Here are some ideas to get you started:
+# JOAQUÍN CARABAJAL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Linux+%26+Infrastructure+Engineer;Networking+%7C+Automation+%7C+Backend;Remote+Systems+Operator;Critical+Environment+Focused" />
+
+---
+
+```bash
+$ whoami
+
+> Linux & Infrastructure Enthusiast
+> Networking Specialist
+> Automation Focused
+> Backend / Systems
+> Argentina 🇦🇷
+```
+
+</div>
+
+---
+
+# ⚡ SYSTEM STATUS
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rayue20-Cloud&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayue20-Cloud&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="49%" />
+
+---
+
+# 📈 ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayue20-Cloud&theme=github-compact&hide_border=true&bg_color=0d1117" width="100%"/>
+
+---
+
+# 🛠 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,github,docker,vscode,mysql,postgres,arduino" />
+
+</div>
+
+---
+
+# 🚀 CURRENT OBJECTIVES
+
+```yaml
+focus:
+  - Linux Systems
+  - Networking
+  - Infrastructure
+  - Automation
+  - Remote Technical Operations
+
+status: ONLINE
+learning: ACTIVE
+```
+
+---
+
+# ☢ LIVE TERMINAL
+
+```bash
+> initializing system...
+
+[ OK ] Linux Kernel
+[ OK ] Network Interfaces
+[ OK ] SSH Services
+[ OK ] Infrastructure Stack
+[ OK ] Automation Scripts
+
+SYSTEM STATUS: OPERATIONAL
+```
+
+---
+
+# 🧠 ABOUT ME
+
+```txt
+I enjoy working with systems, infrastructure,
+networking and backend technologies.
+
+Interested in:
+- Remote environments
+- Critical infrastructure
+- Linux ecosystems
+- Automation
+- Technical operations
+```
+
+---
+
+# 🔥 CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayue20-Cloud&theme=chartreuse-dark&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+![snake gif](https://github.com/Rayue20-Cloud/Rayue20-Cloud/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 📡 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Rayue20-Cloud">
+<img src="https://img.shields.io/badge/GitHub-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
+
+</div>
