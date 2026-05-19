@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://i.gifer.com/3UvT.gif" width="100%" />
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBoeGx1dTBobnNjNXlnMjQ1cmttMnh2NGx5bDR0aG4xZ3NqbHI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif" width="100%" />
+</p>
 
 # Rayue20-cloud
 
