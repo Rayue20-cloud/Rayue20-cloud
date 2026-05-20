@@ -108,9 +108,9 @@ Interested in:
 
 <div align="center">
 
-![snake gif](https://github.com/Rayue20-cloud/Rayue20-Cloud/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="./triple_snake.gif" width="60%" />
+</p>
 
 ---
 
